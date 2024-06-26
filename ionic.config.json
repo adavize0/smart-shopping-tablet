@@ -1,0 +1,8 @@
+{
+  "name": "Smart Shopping Tablet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e65df899"
+}
